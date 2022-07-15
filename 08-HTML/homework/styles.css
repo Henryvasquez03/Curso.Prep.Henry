@@ -1,0 +1,26 @@
+<style>
+h1{
+ color: brown;
+}
+img{
+ width: 400px
+
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background:chocolate;
+    padding: 50px;
+    border: 6px solid black;
+}
+
+#spanId{
+     font-size: 18px;
+     margin: 50px;
+ }
+
+ body {
+
+    background-image: url(/restaurante.jpg);
+ }
